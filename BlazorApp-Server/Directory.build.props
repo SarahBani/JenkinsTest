@@ -1,12 +1,7 @@
 ﻿<Project>
  <PropertyGroup>
-   <Deterministic>true</Deterministic>
-   <IgnoreVersionUpdate>true</IgnoreVersionUpdate>
-	<GenerateAssemblyInfo>true</GenerateAssemblyInfo>
-
-    <Version>3.0.0.0</Version>
-	<FileVersion>1.2.3</FileVersion>
-    <InformationalVersion>1.5.3</InformationalVersion>
-  
+	<Deterministic>true</Deterministic>
+	<IgnoreVersionUpdate>true</IgnoreVersionUpdate>
+	<FileVersion>2.0.0</FileVersion>  
  </PropertyGroup>
 </Project>
