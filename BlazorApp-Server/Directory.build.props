@@ -2,7 +2,7 @@
  <PropertyGroup>
    <Deterministic>true</Deterministic>
    <IgnoreVersionUpdate>true</IgnoreVersionUpdate>
-	<GenerateAssemblyInfo>false</GenerateAssemblyInfo>
+	<GenerateAssemblyInfo>true</GenerateAssemblyInfo>
 
     <Version>3.0.0.0</Version>
 	<FileVersion>1.2.3</FileVersion>

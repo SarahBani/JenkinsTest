@@ -45,3 +45,5 @@ H:\Project\Blazor\BlazorApp-Server\BlazorApp-Server\obj\Debug\netcoreapp3.1\Blaz
 H:\Project\Blazor\BlazorApp-Server\BlazorApp-Server\obj\Debug\netcoreapp3.1\BlazorApp-Server.pdb
 H:\Project\Blazor\BlazorApp-Server\BlazorApp-Server\obj\Debug\netcoreapp3.1\BlazorApp-Server.genruntimeconfig.cache
 H:\Project\Blazor\BlazorApp-Server\BlazorApp-Server\obj\Debug\netcoreapp3.1\BlazorApp-Server.csproj.CopyComplete
+H:\Project\Blazor\BlazorApp-Server\BlazorApp-Server\obj\Debug\netcoreapp3.1\BlazorApp-Server.AssemblyInfoInputs.cache
+H:\Project\Blazor\BlazorApp-Server\BlazorApp-Server\obj\Debug\netcoreapp3.1\BlazorApp-Server.AssemblyInfo.cs
