@@ -9,9 +9,6 @@ H:\Project\Blazor\BlazorApp-Server\BlazorApp-Server\bin\Debug\netcoreapp3.1\Blaz
 H:\Project\Blazor\BlazorApp-Server\BlazorApp-Server\bin\Debug\netcoreapp3.1\BlazorApp-Server.pdb
 H:\Project\Blazor\BlazorApp-Server\BlazorApp-Server\bin\Debug\netcoreapp3.1\BlazorApp-Server.Views.dll
 H:\Project\Blazor\BlazorApp-Server\BlazorApp-Server\bin\Debug\netcoreapp3.1\BlazorApp-Server.Views.pdb
-H:\Project\Blazor\BlazorApp-Server\BlazorApp-Server\obj\Debug\netcoreapp3.1\BlazorApp-Server.csprojAssemblyReference.cache
-H:\Project\Blazor\BlazorApp-Server\BlazorApp-Server\obj\Debug\netcoreapp3.1\BlazorApp-Server.AssemblyInfoInputs.cache
-H:\Project\Blazor\BlazorApp-Server\BlazorApp-Server\obj\Debug\netcoreapp3.1\BlazorApp-Server.AssemblyInfo.cs
 H:\Project\Blazor\BlazorApp-Server\BlazorApp-Server\obj\Debug\netcoreapp3.1\BlazorApp-Server.csproj.CoreCompileInputs.cache
 H:\Project\Blazor\BlazorApp-Server\BlazorApp-Server\obj\Debug\netcoreapp3.1\BlazorApp-Server.MvcApplicationPartsAssemblyInfo.cache
 H:\Project\Blazor\BlazorApp-Server\BlazorApp-Server\obj\Debug\netcoreapp3.1\BlazorApp-Server.RazorComponent.input.cache
@@ -48,3 +45,4 @@ H:\Project\Blazor\BlazorApp-Server\BlazorApp-Server\obj\Debug\netcoreapp3.1\Blaz
 H:\Project\Blazor\BlazorApp-Server\BlazorApp-Server\obj\Debug\netcoreapp3.1\BlazorApp-Server.pdb
 H:\Project\Blazor\BlazorApp-Server\BlazorApp-Server\obj\Debug\netcoreapp3.1\BlazorApp-Server.genruntimeconfig.cache
 H:\Project\Blazor\BlazorApp-Server\BlazorApp-Server\obj\Debug\netcoreapp3.1\BlazorApp-Server.csproj.CopyComplete
+H:\Project\Blazor\BlazorApp-Server\BlazorApp-Server\obj\Debug\netcoreapp3.1\BlazorApp-Server.csprojAssemblyReference.cache

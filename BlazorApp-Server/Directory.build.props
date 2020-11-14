@@ -1,0 +1,8 @@
+﻿<Project>
+ <PropertyGroup>
+   <Deterministic>true</Deterministic>
+   <IgnoreVersionUpdate>true</IgnoreVersionUpdate>
+	<GenerateAssemblyInfo>false</GenerateAssemblyInfo>
+	<PackageVersion>$(PackageVersion)</PackageVersion>
+ </PropertyGroup>
+</Project>
