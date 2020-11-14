@@ -3,6 +3,10 @@
    <Deterministic>true</Deterministic>
    <IgnoreVersionUpdate>true</IgnoreVersionUpdate>
 	<GenerateAssemblyInfo>false</GenerateAssemblyInfo>
-	<PackageVersion>$(PackageVersion)</PackageVersion>
+
+    <Version>3.0.0.0</Version>
+	<FileVersion>1.2.3</FileVersion>
+    <InformationalVersion>1.5.3</InformationalVersion>
+  
  </PropertyGroup>
 </Project>
